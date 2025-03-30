@@ -1,3 +1,3 @@
 -  👋 Hi, I'm Bruno. I'm a passionate and curious Mechanical & Machine Learning Engineer  
--  👀 I’m interested in the application of Deep Learning in the automotive industry and the possibilities to develop new insights into this field
--  📚 I’m also currently teaching the basics of python and machine learning on my Introduction to Deep Learning repo
+-  👀 I’m interested in the application of Deep Learning in research & science and the possibilities to develop new insights into this fields
+-  📚 If you're a begginer take a look at the basics of python and machine learning on my Introduction to Deep Learning repo!
