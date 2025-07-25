@@ -1,4 +1,4 @@
--  👋 Hi, I'm Bruno. I'm a passionate and curious Mechanical & Machine Learning Engineer  
+-  👋 Hi, I'm Bruno. I'm a passionate and curious Machine Learning & MLOPs Engineer  
 -  👀 I’m interested in the application of Deep Learning in research & science and the possibilities to develop new insights into these fields
 -  ⚙️ In the "Engineering AI" repo you can find my work in diverse engineering fields -from combustion and medicine to catalyst discovery-
 -  📊 In the "CryptoPredictiveAI" repo you'll find my current, most ambitious and still-on-the-making project. Here I go away from the classic "batch data" engineering and start implementing an on-demand data-streaming AI-engineering problem
