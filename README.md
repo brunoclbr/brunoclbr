@@ -27,7 +27,9 @@ Pytho • Rust • React Native • TypeScript • Drizzle ORM • SQLite/Turso 
 📫 Find me
 
 💼 LinkedIn - Where I post about ML engineering realities
+
 📰 Newsletter - Battle-tested insights from production AI deployments
+
 🏢 MIRAI Engineering - Building the future of industrial AI
 
 Previously: Built AI systems at Airbus, managed €1M+ ML projects, worked across three continents deploying production deep learning.
