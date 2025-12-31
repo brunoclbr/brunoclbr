@@ -15,8 +15,8 @@ On the side:
 ✍️ Writing a newsletter about what ML engineering actually looks like in production vs. what clients expect
 🧠 Documenting 5 years of lessons learned deploying AI in industrial environments
 
-🛠️ Tech I'm deep in lately
-Pytho • Rust • React Native • TypeScript • Drizzle ORM • SQLite/Turso • Node.js • Expo • Computer Vision • Deep Learning deployment strategies
+🛠️ Tech I'm deep in lately:
+Python • Rust • React Native • TypeScript • Drizzle ORM • SQLite/Turso • Node.js • Expo • Computer Vision • Deep Learning deployment strategies
 
 💡 Things I believe:
 
@@ -24,7 +24,7 @@ Pytho • Rust • React Native • TypeScript • Drizzle ORM • SQLite/Turso 
 - Most "AI engineering" content is either hype or theory. I like to think I share what actually works in production
 - Mobile AI development is harder than people think, but we're finally at the inflection point
 
-📫 Find me
+📫 Find me on:
 
 💼 LinkedIn - Where I post about ML engineering realities
 
