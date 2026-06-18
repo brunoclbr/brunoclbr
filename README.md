@@ -1,6 +1,6 @@
 # Hey, I’m Bruno
 
-I build AI products for messy real-world environments — where data is incomplete, infrastructure is imperfect, and “just use an API” is rarely enough.
+I build AI products for messy real-world environments, where data is incomplete, infrastructure is imperfect, and “just use an API” is rarely enough.
 
 I’m the founder of [Mirai Engineering](https://github.com/mirai-engineering), where I’m building a stealth AI startup for industrial teams, while also shipping privacy-first consumer AI products and experimenting with practical agent workflows. I'm more active there.
 
