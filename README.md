@@ -1,35 +1,51 @@
-👋 Hey, I'm Bruno
+# Hey, I’m Bruno
 
-I build production AI systems that work both off- and online. The kind that run in remote Chilean mines, Australian hospital operating rooms, and logistics warehouses in Germany where "just call the API" isn't an option.
+I build AI products for messy real-world environments — where data is incomplete, infrastructure is imperfect, and “just use an API” is rarely enough.
 
-🔧 What I'm working on right now:
+I’m the founder of [Mirai Engineering](https://github.com/mirai-engineering), where I’m building a stealth AI startup for industrial teams, while also shipping privacy-first consumer AI products and experimenting with practical agent workflows. I'm more active there.
 
-📱 MacroMate - A React Native nutrition tracking app that uses local LLMs to turn "I ate a sandwich" into structured database entries. Launching February 2026. Building it to prove offline mobile AI is ready for real products.
+## What I’m working on
 
-🏥 ISSA - Hospital image segmentation software for medical imaging. Because healthcare data can't just live in the cloud.
+### Stealth AI startup
 
-🚀 MIRAI Engineering - My AI company delivering custom deep learning systems for any business, from automotive to bakeries. We specialize in markets too niche for big tech.
+I’m building an AI product for industrial R&D teams working with complex experimental and operational data.
 
-On the side:
+The goal is simple: help engineers spend less time cleaning spreadsheets, writing one-off scripts, and manually preparing data — and more time making better technical decisions.
 
-✍️ Writing a newsletter about what ML engineering actually looks like in production vs. what clients expect
-🧠 Documenting 5 years of lessons learned deploying AI in industrial environments
+### Nutrition Mate
 
-🛠️ Tech I'm deep in lately:
-Python • Rust • React Native • TypeScript • Drizzle ORM • SQLite/Turso • Node.js • Expo • Computer Vision • Deep Learning deployment strategies
+[Nutrition Mate](https://apps.apple.com/de/app/nutrition-mate/id6758606688?l=en-GB) is an iOS calorie-tracking app that runs a fine-tuned LLM locally on-device.
 
-💡 Things I believe:
+You can describe what you ate naturally, and the app turns it into structured nutrition data without sending your food logs to a cloud model.
 
-- The competitive advantage isn't the model. It's engineers who can deploy it where internet doesn't exist
-- Most "AI engineering" content is either hype or theory. I like to think I share what actually works in production
-- Mobile AI development is harder than people think, but we're finally at the inflection point
+I built it because I wanted to prove that small local models are already useful enough for real consumer products.
 
-📫 Find me on:
+### AI harnesses and agent workflows
 
-💼 LinkedIn - Where I post about ML engineering realities
+I spend a lot of time experimenting with coding harnesses, local models, skills, MCP-style tool use, and lightweight multi-agent workflows.
 
-📰 Newsletter - Battle-tested insights from production AI deployments
+I’m especially interested in making agents more useful in practice: better context, better tools, less token waste, and fewer fake “autonomous agent” demos.
 
-🏢 MIRAI Engineering - Building the future of industrial AI
+## Open source and writing
 
-Previously: Built AI systems at Airbus, managed €1M+ ML projects, worked across three continents deploying production deep learning.
+- [CryptoPredictiveAI](https://github.com/brunoclbr/CryptoPredictiveAI) — an end-to-end real-time ML project covering streaming data, feature engineering, local LLM sentiment analysis, monitoring, and low-latency inference.
+- [Newsletter](https://miraiengineering.substack.com/) — notes on building production ML systems, local AI, coding agents, and lessons learned while shipping products.
+- [Harness Engineering & Tokenomics](https://miraiengineering.substack.com/p/stop-burning-tokens-start-building) — a practical breakdown of why the harness often matters as much as the model when working with coding agents.
+
+## Things I care about
+
+- Shipping products instead of endlessly polishing demos
+- Building AI that works under real technical constraints
+- Privacy-first and on-device AI where it makes sense
+- Making engineers more productive without pretending AI replaces engineering judgment
+- Turning frontier ML into software that people can actually use
+
+## Tech I’m deep in lately
+
+`Python` · `TypeScript` · `React` · `FastAPI` · `PyTorch` · `ONNX Runtime` · `MLflow` · `Docker` · `Kubernetes` · `PostgreSQL` · `SQLite/Turso` · `LLMs` · `local inference` · `MCP` · `agent harnesses`
+
+## Previously
+
+I led a $1M Airbus/MIT machine-learning collaboration for fuel-cell optimization and worked on ML systems across industrial, automotive, energy, and medical-imaging contexts.
+
+[LinkedIn](https://www.linkedin.com/in/bruno-copa-a034311b4/) · [Mirai Engineering](https://github.com/mirai-engineering) · [Newsletter](https://miraiengineering.substack.com/)
